@@ -1,0 +1,29 @@
+{
+  "name": "react-hooks",
+  "version": "1.0.0",
+  "description": "A collection of useful React hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjarkehs/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "Bjarke Hesthaven Søndergaard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjarkehs/react-hooks/issues"
+  },
+  "homepage": "https://github.com/bjarkehs/react-hooks#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.30"
+  }
+}
